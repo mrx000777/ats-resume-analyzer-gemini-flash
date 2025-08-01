@@ -33,7 +33,9 @@ This project is an **AI-powered Resume ATS (Applicant Tracking System) Checker**
 
 | Upload Resume | Result Summary |
 |---------------|----------------|
-| _Coming Soon_ | _Coming Soon_ |
+| <img width="1021" height="709" alt="Screenshot 2025-08-01 113131" src="https://github.com/user-attachments/assets/3c72d842-7b67-40b3-82a1-b5b59143d028" />
+ |<img width="1071" height="685" alt="Screenshot 2025-08-01 113148" src="https://github.com/user-attachments/assets/66059db7-e7df-4505-9109-9bb29449b0f9" />
+|
 
 ---
 
